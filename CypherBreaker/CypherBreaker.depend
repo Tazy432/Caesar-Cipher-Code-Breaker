@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679518829 source:d:\in c , in codeblocks\cypherbreaker\main.cpp
+	<fstream>
+	<string.h>
+
