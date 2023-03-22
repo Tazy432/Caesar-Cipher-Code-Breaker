@@ -25,6 +25,9 @@ For every letter in our encoded text we compute the formula
 (and implicitly the nrOfApparitons)
 sum=sum+((nrOfApparitions-procentageOfAparitions)^2)/procentageOfAparition 
 
+![image](https://user-images.githubusercontent.com/100218013/227039970-cdc2fa5d-56e7-4fc3-82c3-2be5539a779f.png)
+
+
 III
 
 We repeat step (I+II) 25 times in search for the lowest sum .That sum
