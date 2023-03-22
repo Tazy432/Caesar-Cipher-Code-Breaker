@@ -2,8 +2,11 @@
 A program that breaks the Caesar Cipher code
 
 (e.g. k nqxg err-2 = i love cpp)
+
+
 The english vocabulary is quite predictable .For example E, T and A are the most numerous letters in the english writing , while Z, Q and j are the least numerous.
 Knowing all the letter's appearance procentage we can break this type of cipher .
+
 ![Screenshot 2023-03-22 230936](https://user-images.githubusercontent.com/100218013/227038883-db2d557b-dbc0-4d11-a405-90e492c89ece.png)
 
 STEPS
@@ -11,6 +14,8 @@ STEPS
 I
 
 We shift all the letters by one ( e.g. donkey +1 = epolfz ) 
+
+
 ![image](https://user-images.githubusercontent.com/100218013/227038987-ff1f49de-267f-4987-8944-eeba516c39cc.png)
 
 
