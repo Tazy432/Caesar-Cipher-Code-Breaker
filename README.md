@@ -21,7 +21,7 @@ We shift all the letters by one ( e.g. donkey +1 = epolfz )
 
 II
 
-For every letter in our encoded text we compute the formula
+For every letter (25 times) we compute the formula
 (and implicitly the nrOfApparitons)
 sum=sum+((nrOfApparitions-procentageOfAparitions)^2)/procentageOfAparition 
 
